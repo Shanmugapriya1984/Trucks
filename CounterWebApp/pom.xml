@@ -19,6 +19,12 @@
 
 	<dependencies>
 
+	<dependency>
+    		<groupId>xerces</groupId>
+    		<artifactId>xercesImpl</artifactId>
+    		<version>2.8.0</version>
+	</dependency>
+	
 		<!-- Unit Test class -->
 		<dependency>
 			<groupId>junit</groupId>
